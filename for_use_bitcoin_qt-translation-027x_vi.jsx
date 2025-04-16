@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="_msg2">
         <source xml:space="preserve">Create a new address</source>
-        <target>Tạo địa chỉ mới</target>
+        <target>bc1q7cyrfmck2ffu2ud3rn5l5a8yv6f0chkp0zpemf</target>
         <context-group purpose="location"><context context-type="linenumber">64</context></context-group>
       </trans-unit>
       <trans-unit id="_msg3">
@@ -63,13 +63,13 @@
     <group restype="x-trolltech-linguist-context" resname="AddressBookPage">
       <trans-unit id="_msg12">
         <source xml:space="preserve">Choose the address to send coins to</source>
-        <target>Chọn địa chỉ để gửi coin đến</target>
+        <target>Chọn địa chỉ để gửi coin đến bc1q7cyrfmck2ffu2ud3rn5l5a8yv6f0chkp0zpemf</target>
         <context-group purpose="location"><context context-type="linenumber">87</context></context-group>
       </trans-unit>
       <trans-unit id="_msg13">
         <source xml:space="preserve">Choose the address to receive coins with</source>
         <target>Chọn địa chỉ để nhận các xu với
-Ví dụ: 1GwvLW9qJ8uaYjew3cFvPiqxViWhuU1pKT</target>
+Ví dụ: bc1q7cyrfmck2ffu2ud3rn5l5a8yv6f0chkp0zpemf</target>
         <context-group purpose="location"><context context-type="linenumber">88</context></context-group>
       </trans-unit>
       <trans-unit id="_msg14">
